@@ -1,4 +1,4 @@
-# git-introducao
+i# git-introducao
 
 ## Introdução ao Uso do GIT
 
@@ -68,10 +68,10 @@ Caso você queira copiar um repositório Git já existente — por exemplo, um p
 
 Você clona um repositório com git clone [url]. Por exemplo, caso você queria clonar a biblioteca Git do Ruby chamada Grit, você pode fazê-lo da seguinte forma:
 
-    git clone https://github.com/joao-parana/git-introducao.git
+    git clone https://github.com/juliabarbosa-dev/git-introducao.git
 Isso cria um diretório chamado grit, inicializa um diretório .gitdentro deste, obtém todos os dados do repositório e verifica a cópia atual da última versão. Se você entrar no novo diretório grit, você verá todos os arquivos do projeto nele, pronto para serem editados ou utilizados. Caso você queira clonar o repositório em um diretório diferente de grit, é possível especificar esse diretório utilizando a opção abaixo:
 
-    git clone https://github.com/joao-parana/git-introducao.git meuEstudoGit
+    git clone https://github.com/juliabarbosa-dev/git-introducao.git meuEstudoGit
     
 Este comando faz exatamente a mesma coisa que o anterior, mas o diretório alvo será chamado `meuEstudoGit`.
 

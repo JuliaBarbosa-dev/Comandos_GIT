@@ -714,4 +714,5 @@ Manter o arquivo no seu disco rígido mas parar de monitorar com o Git
 ### 10. Exibindo o LOG de alterações 
 
 	git log
-	
+
+### Espero ter ajudado você com esse conteúdo. DESENVOLVIDO BY JULIA BARBOSA.	
